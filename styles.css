@@ -1,0 +1,47 @@
+body {
+    text-align: left;
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h2 {
+    color: #86eae0;
+    font-size: 40px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 22px;
+    color: rgb(151, 163, 242);
+}
+
+ol {
+    color: rgb(151, 163, 242);
+    font-size: 22px;
+}
+
+/*.project-list {
+    list-style-type: none;
+    padding: 0;
+    width: 50%;
+    margin: auto;
+}
+
+.project-list li {
+    background: rgb(253, 243, 243);
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.project-list li a {
+    text-decoration: none;
+    color: #46a8e9;
+    font-weight: bold;
+}
+
+.project-list li a:hover {
+    color: #0056b3;
+}*/
